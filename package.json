@@ -1,0 +1,19 @@
+{
+  "name": "hard2killbjj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techtony92/hard2killbjj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techtony92/hard2killbjj/issues"
+  },
+  "homepage": "https://github.com/techtony92/hard2killbjj#readme"
+}
